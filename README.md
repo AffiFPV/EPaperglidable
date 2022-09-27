@@ -1,4 +1,4 @@
-## EParaglidable
+## EPaperglidable
 M5EPD Paraglidable API Display
 
 Shows Paragliding Weather probability for the next four days according to paraglidable.com for up to ten locations.
